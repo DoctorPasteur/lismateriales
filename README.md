@@ -1,23 +1,22 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Esta aplicación web se está diseñando para poder hacer una lista de materiales de un proyecto que incluye componentes estructurales en metal.
 
-Things you may want to cover:
+Este proyecto debe permitir:
 
-* Ruby version
+* Añadir materiales típicos de una construcción metálica
 
-* System dependencies
+* Crear un proyecto con su lista de materiales
 
-* Configuration
+* Crear un resumen de los materiales empleados en un proyecto
 
-* Database creation
+## A futuro:
 
-* Database initialization
+* Incluir los costos de la materia prima del proyecto
 
-* How to run the test suite
+* Calcular los costos de fabricación del proyecto
 
-* Services (job queues, cache servers, search engines, etc.)
+* Hacer una estadística de los materiales más utilizados
 
 * Deployment instructions
 
